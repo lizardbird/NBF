@@ -2,7 +2,7 @@
 
 @media (max-width: 599px) {
     .w-sitelogo[data-v-23de7858] img {
-  width: 100px;
+  width: 100px !important;
 }
 }
 
