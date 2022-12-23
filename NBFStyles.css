@@ -1,5 +1,29 @@
 
 
+    @media (min-width: 1200px) {
+ #dZxPWt .image-gallery[data-v-ea7041d0] {
+    max-height: 400px !important;
+  }
+ #dZxPWt .w-block-wrapper[data-v-0a5c9ce3] {
+    position: relative !important;
+    width: 100% !important;
+    max-height: 500px !important;
+}
+#dZxPWt .figure__aspect-ratio[data-v-ae479018] img {
+  height: 400px !important;
+  width: auto !important;
+  margin: 0 20% !important;
+}
+}
+@media (min-width: 1000px) and (max-width: 1200px) {
+
+#dZxPWt .figure__aspect-ratio[data-v-ae479018] img {
+  height: 400px !important;
+  width: auto !important;
+  margin: 0 10% !important;
+}
+}
+}
 @media (max-width: 599px) {
     .w-sitelogo[data-v-23de7858] img {
   width: 100px !important;
