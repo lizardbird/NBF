@@ -1,5 +1,27 @@
 
+@media (min-width: 1200px) {
+  .image-gallery[data-v-ea7041d0] {
+    max-height: 400px;
+  }
+  .w-block-wrapper[data-v-0a5c9ce3] {
+    position: relative;
+    width: 100%;
+    max-height: 500px;
+}
+.figure__aspect-ratio[data-v-ae479018] img {
+  height: 400px;
+  width: auto;
+  margin: 0 20%;
+}
+}
+@media (min-width: 1000px) and (max-width: 1200px) {
 
+.figure__aspect-ratio[data-v-ae479018] img {
+  height: 400px;
+  width: auto;
+  margin: 0 10%;
+}
+}
 @media (max-width: 599px) {
     .w-sitelogo[data-v-23de7858] img {
   width: 100px !important;
